@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeCoding-art
-- 👀 I’m interested in Android development
-- 💞️ I’m looking to collaborate on Android Projects
+- 👀 I’m interested in Android development, IOS Development, React and Flutter Development, React JS Development
+- 💞️ I’m looking to collaborate on Mobile Development Projects
 - 📫 Can reach me on my email "everisforever1989@gmail.com"
 
 <!---
